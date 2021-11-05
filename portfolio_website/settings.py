@@ -27,7 +27,7 @@ SECRET_KEY = config("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aritraportfolio.herokuapp.com',
+ALLOWED_HOSTS = ['aritram.herokuapp.com',
 '127.0.0.1' ]
 
 
